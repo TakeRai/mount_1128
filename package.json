@@ -1,0 +1,16 @@
+{
+  "name": "ori_mount",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bufferutil": "^4.0.7",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4",
+    "utf-8-validate": "^5.0.10",
+    "ws": "^8.11.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
